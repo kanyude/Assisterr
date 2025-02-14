@@ -3,7 +3,7 @@
 前排提示，本人仅作工具分享，使用该脚本默认认可女巫与作者无关。
 
 ## 所需环境
-1. 注册: [https://build.assisterr.ai](https://build.assisterr.ai/?ref=66654be3b7cbb265d7f7b34e)（连接 Twitter、Discord 并完成任务）
+1. 注册: [https://build.assisterr.ai](https://build.assisterr.ai/?ref=679dcbe0301bfe7a089adb29)（连接 Twitter、Discord 并完成任务）
 2. 代理（可选）
 3. VPS（可选）
 4. NodeJS。（必须）
@@ -13,7 +13,7 @@
 ### 获取token
 1. 获取你的 Solana 钱包私钥（用小幽灵或者OKX）
 2. 获取账户令牌：
-   - 打开 [https://build.assisterr.ai](https://build.assisterr.ai/?ref=66654be3b7cbb265d7f7b34e)，确保你已登录并完成任务。
+   - 打开 [https://build.assisterr.ai](https://build.assisterr.ai/?ref=679dcbe0301bfe7a089adb29)，确保你已登录并完成任务。
    - 打开浏览器的开发者工具，按 F12 或 Ctrl+Shift+I，切换到控制台（Console）标签。
    - 运行以下命令：
    ```bash
